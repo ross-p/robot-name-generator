@@ -1,0 +1,23 @@
+{
+  "name": "robot-name-generator",
+  "version": "1.0.0",
+  "description": "Generate Robot Names",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ross-p/robot-name-generator.git"
+  },
+  "author": "Ross Perkins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ross-p/robot-name-generator/issues"
+  },
+  "homepage": "https://github.com/ross-p/robot-name-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
